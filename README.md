@@ -1,4 +1,4 @@
-![Screenshot_27-3-2026_215241_lms2 ai saveetha in](https://github.com/user-attachments/assets/cfeff7b2-1299-49b4-b2d7-b88587b6eefb)# Algorithm for QR Decomposition
+# Algorithm for QR Decomposition
 ## Aim:
 To implement QR decomposition algorithm using the Gram-Schmidt method.
 ## Equipment’s required:
