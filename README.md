@@ -1,4 +1,8 @@
 # Algorithm for QR Decomposition
+
+# NAME : SHREEJA R S
+# REF.NO : 25017561
+
 ## Aim:
 To implement QR decomposition algorithm using the Gram-Schmidt method.
 ## Equipment’s required:
